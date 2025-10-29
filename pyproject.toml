@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11.13"
 dependencies = [
     "beeai-framework>=0.1.53",
+    "termcolor>=3.1.0",
 ]
 
 [dependency-groups]
