@@ -34,7 +34,7 @@ ollama pull granite4:micro
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/barvhaim/beeai-granite4.git
 cd beeai-granite4
 ```
 
